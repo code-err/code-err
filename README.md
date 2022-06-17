@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-err
 - 👀 I’m interested in coding and developing web application.
-- 🌱 I’m currently learning Java,HTML and CSS.
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
